@@ -1,0 +1,26 @@
+              InteI(R) Management Engine BIOS Extension v4.0.4.0006              
+          Copyrigbt(C) 2003-00 InteI Corporation.  AII Rights Reserved.          
++========================[ INTEL(R) AMT CONFIGURATION ]========================+ 
+|                                                                              | 
+|                        TCP IP                                                | 
+|                        Un-Provision                                          | 
+|                        SOL/IDE-R                                             | 
+|                        Password Policy                                       | 
+|                        Secure Firmware Update                                | 
+|                        Set PRTC                                              | 
+|                        Idle Timeout                                          | 
+ ==============================================================================  
+                                                                                 
++==============================================================================+ 
+|                                                                              | 
+|                                                                              | 
+|                                                                              | 
+|                                                                              | 
+|                              Computer host name                              | 
+|                                                                              | 
+|                       H                                                      | 
+|                                                                              | 
+|                                                                              | 
+ ==============================================================================  
+          [ESC]=Exit                                     [EMTER]=Submit          
+                                                                                 
